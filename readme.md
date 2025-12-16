@@ -9,7 +9,7 @@ This analysis evaluates insurance attachment rates for 163 different sellers  ac
 
 Through comprehensive data analysis and visualization, this report delivers evidence-based recommendations to optimize insurance sales effectiveness across all regions.
 
-> In order to get executive level insights without going through all the details, reffer to the ppt or pdf provided. External link to ppt: [link to google slides](https://docs.google.com/presentation/d/10vYMt8oZ3lPKdbfivYSIboKXHsOyk4U6sfzC5HtpN4s/edit?usp=sharing)
+> In order to get executive level insights without going through all the details, reffer to the ppt or pdf provided, or click the google slides link provided here. [link to google slides](https://docs.google.com/presentation/d/10vYMt8oZ3lPKdbfivYSIboKXHsOyk4U6sfzC5HtpN4s/edit?usp=sharing)
 
 
 ## Dataset Deccriptives

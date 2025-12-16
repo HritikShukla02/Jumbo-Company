@@ -1,0 +1,245 @@
+Store_Name,Branch,Average_Rate,Classification
+Delhi(Hauz Khas),Delhi_Ncr,0.622,Outlier (High)
+Pune(Hadapsar),Pune,0.5860000000000001,Outlier (High)
+Pune(Kondhawa),Pune,0.414,Outlier (High)
+Delhi(Budh Vihar),Delhi_Ncr,0.39,High Performer
+Delhi(Daryaganj),Delhi_Ncr,0.386,High Performer
+Pune(Dange Chowk),Pune,0.368,High Performer
+Bhiwandi Br,Thane,0.362,High Performer
+Delhi(Narela),Delhi_Ncr,0.358,High Performer
+Haryana(Mewla M.) Br,Delhi_Ncr,0.35200000000000004,High Performer
+Up(Greater Noida) Br,Delhi_Ncr,0.35,High Performer
+Delhi(Defence Enclave-Palam) Br,Delhi_Ncr,0.348,High Performer
+Pune(S Bapat Rd),Pune,0.338,High Performer
+Andheri Br,Mumbai,0.336,High Performer
+Delhi(Vikas Marg) Br,Delhi_Ncr,0.336,High Performer
+Delhi(Burari),Delhi_Ncr,0.334,High Performer
+Delhi(Shahdara) Br,Delhi_Ncr,0.32,High Performer
+Delhi(Patel Nagar) Br,Delhi_Ncr,0.318,High Performer
+Delhi(Paschim Vihar),Delhi_Ncr,0.31799999999999995,High Performer
+Delhi(Model Town Iii) Br,Delhi_Ncr,0.312,High Performer
+Up(Raj Nagar Dc) Br,Delhi_Ncr,0.3,High Performer
+Delhi(Mahavir Enclave),Delhi_Ncr,0.3,High Performer
+Pune(Kothrud) Br,Pune,0.298,High Performer
+Pune(Bhosari) Br,Pune,0.29400000000000004,High Performer
+Linking Road Br,Mumbai,0.29,High Performer
+Ts(Bhel),Telangana,0.29,High Performer
+Goregaon (W) Br,Mumbai,0.29,High Performer
+Ts(Kondapur),Telangana,0.28400000000000003,High Performer
+Delhi(Dwarka) Br,Delhi_Ncr,0.27999999999999997,High Performer
+Delhi(Karol Bagh) Br,Delhi_Ncr,0.27999999999999997,High Performer
+Delhi(Durgapuri),Delhi_Ncr,0.278,High Performer
+Pune(Chinchwad) Br,Pune,0.266,High Performer
+Palghar,Thane,0.266,High Performer
+Pune(Nagar Road) Br,Pune,0.26,High Performer
+Delhi(Rajouri Garden) Br,Delhi_Ncr,0.25999999999999995,High Performer
+Pune(Satara Rd) Br,Pune,0.252,High Performer
+Haryana(M G Road) Br,Delhi_Ncr,0.252,High Performer
+Delhi(Uttam Nagar) Br,Delhi_Ncr,0.246,High Performer
+Delhi(Nangloi),Delhi_Ncr,0.244,High Performer
+Prabhadevi Br,Mumbai,0.238,High Performer
+Delhi(Rohini) Br,Delhi_Ncr,0.236,High Performer
+Pune(Baner) Br,Pune,0.236,High Performer
+Haryana(Sec-65 Ext Gurugram),Delhi_Ncr,0.23400000000000004,"Average Performer 
+(Above Median)"
+Sion Br,Mumbai,0.23200000000000004,"Average Performer 
+(Above Median)"
+Borivali Br,Mumbai,0.23000000000000004,"Average Performer 
+(Above Median)"
+Delhi(Kalkaji) Br,Delhi_Ncr,0.22599999999999998,"Average Performer 
+(Above Median)"
+Pune(Hinjewadi) Br,Pune,0.22400000000000003,"Average Performer 
+(Above Median)"
+Ahmedabad(Bopal),Gujarat,0.22400000000000003,"Average Performer 
+(Above Median)"
+Opera House Br,Mumbai,0.21999999999999997,"Average Performer 
+(Above Median)"
+Up (Noida Sec.18) Br,Delhi_Ncr,0.21799999999999997,"Average Performer 
+(Above Median)"
+Dombivli Br,Thane,0.21399999999999997,"Average Performer 
+(Above Median)"
+Delhi(Roop Nagar),Delhi_Ncr,0.21200000000000002,"Average Performer 
+(Above Median)"
+Surat(Rander Rd) Br,Gujarat,0.21000000000000002,"Average Performer 
+(Above Median)"
+Delhi(Janakpuri) Br,Delhi_Ncr,0.21000000000000002,"Average Performer 
+(Above Median)"
+Santacruz Br,Mumbai,0.21000000000000002,"Average Performer 
+(Above Median)"
+Mira Road Br,Thane,0.20800000000000002,"Average Performer 
+(Above Median)"
+Haryana(Faridabad) Br,Delhi_Ncr,0.20800000000000002,"Average Performer 
+(Above Median)"
+Panvel Br,Thane,0.20600000000000002,"Average Performer 
+(Above Median)"
+Pune(Station Rd) Br,Pune,0.20599999999999996,"Average Performer 
+(Above Median)"
+Pune(Solapur Rd) Br,Pune,0.202,"Average Performer 
+(Above Median)"
+Ahmedabad(Dev Arc) Br,Gujarat,0.202,"Average Performer 
+(Above Median)"
+Ts(Kothapet),Telangana,0.2,"Average Performer 
+(Above Median)"
+Delhi(Pitampura) Br,Delhi_Ncr,0.198,"Average Performer 
+(Above Median)"
+Thane Br,Thane,0.196,"Average Performer 
+(Above Median)"
+Pune(Dhankawadi-Satara Rd),Pune,0.188,"Average Performer 
+(Above Median)"
+Haryana(Gurgaon) Br,Delhi_Ncr,0.188,"Average Performer 
+(Above Median)"
+Pune(Rahatni) Br,Pune,0.186,"Average Performer 
+(Above Median)"
+Ghodbunder Br,Thane,0.186,"Average Performer 
+(Above Median)"
+Mahim Br,Mumbai,0.182,"Average Performer 
+(Above Median)"
+Kalyan(Khadakpada),Thane,0.182,"Average Performer 
+(Above Median)"
+Surat(Parvat Patiya),Gujarat,0.18,"Average Performer 
+(Above Median)"
+Surat(Varachha) Br,Gujarat,0.18,"Average Performer 
+(Above Median)"
+Ts(Tolichowki- Aditya Ngr),Telangana,0.178,"Average Performer 
+(Above Median)"
+Haryana(Jacobpura) Br,Delhi_Ncr,0.178,"Average Performer 
+(Above Median)"
+Ahmedabad(Odhav) Br,Gujarat,0.17200000000000001,"Average Performer 
+(Above Median)"
+Surat(Ved Road),Gujarat,0.17200000000000001,"Average Performer 
+(Above Median)"
+Badlapur,Thane,0.172,"Average Performer 
+(Above Median)"
+Ts(Paradise Circle),Telangana,0.172,"Average Performer 
+(Above Median)"
+DELHI(KRISHNA NAGAR),Delhi_Ncr,0.16999999999999998,"Average Performer 
+(Above Median)"
+Belapur Br,Thane,0.166,"Average Performer 
+(Above Median)"
+Ts(Mailardevpally),Telangana,0.164,"Average Performer 
+(Above Median)"
+Ts(Hastinapur),Telangana,0.164,"Average Performer 
+(Above Median)"
+Ahmedabad(Maninagar) Br,Gujarat,0.164,"Average Performer 
+(Above Median)"
+Delhi(Nawada),Delhi_Ncr,0.164,"Average Performer 
+(Above Median)"
+Ts(Sun City),Telangana,0.164,"Average Performer 
+(Above Median)"
+Ghatkopar Br,Mumbai,0.158,"Average Performer 
+(Below Median)"
+Chakala Andheri Br,Mumbai,0.156,"Average Performer 
+(Below Median)"
+Ts(Kompally),Telangana,0.154,"Average Performer 
+(Below Median)"
+Bhandup Br,Mumbai,0.152,"Average Performer 
+(Below Median)"
+Malad,Mumbai,0.15,"Average Performer 
+(Below Median)"
+Ts(Vivekananda Nagar),Telangana,0.148,"Average Performer 
+(Below Median)"
+Haryana(New Faridabad),Delhi_Ncr,0.148,"Average Performer 
+(Below Median)"
+Up(Indirapuram) Br,Delhi_Ncr,0.146,"Average Performer 
+(Below Median)"
+Ahmedabad(Shahi Baug) Br,Gujarat,0.146,"Average Performer 
+(Below Median)"
+Ts(Mehdipatnam),Telangana,0.144,"Average Performer 
+(Below Median)"
+Ts(Boduppal),Telangana,0.142,"Average Performer 
+(Below Median)"
+Ts(Nacharam),Telangana,0.142,"Average Performer 
+(Below Median)"
+Ts(Nallakunta),Telangana,0.142,"Average Performer 
+(Below Median)"
+Goregaon (E) Br,Mumbai,0.138,"Average Performer 
+(Below Median)"
+Ts(Kompally- Golden Plaza),Telangana,0.138,"Average Performer 
+(Below Median)"
+Ahmedabad(Ashram Rd) Br,Gujarat,0.136,"Average Performer 
+(Below Median)"
+Haryana(Dundahera),Delhi_Ncr,0.13599999999999998,"Average Performer 
+(Below Median)"
+Ahmedabad(Rakhial) Br,Gujarat,0.134,"Average Performer 
+(Below Median)"
+Virar Br,Thane,0.13399999999999998,"Average Performer 
+(Below Median)"
+Ahmedabad(Krishna Nagar) Br,Gujarat,0.13,"Average Performer 
+(Below Median)"
+Kalyan Br,Thane,0.13,"Average Performer 
+(Below Median)"
+Delhi(Lajpatnagar) Br,Delhi_Ncr,0.12999999999999998,"Average Performer 
+(Below Median)"
+Vadodara(Alkapuri) Br,Gujarat,0.128,"Average Performer 
+(Below Median)"
+Ts(Shah Ali Banda),Telangana,0.128,"Average Performer 
+(Below Median)"
+Ts(Nagaram),Telangana,0.128,"Average Performer 
+(Below Median)"
+Vashi Br,Thane,0.126,"Average Performer 
+(Below Median)"
+Surat(Bhatar),Gujarat,0.126,"Average Performer 
+(Below Median)"
+Ap(Tirupathi-M.R.Pally),Telangana,0.126,"Average Performer 
+(Below Median)"
+Ts(Karmanghat),Telangana,0.126,"Average Performer 
+(Below Median)"
+Surat Br,Gujarat,0.12400000000000003,"Average Performer 
+(Below Median)"
+Ts(Punjagutta),Telangana,0.124,"Average Performer 
+(Below Median)"
+Ahmedabad(Vishala) Br,Gujarat,0.124,"Average Performer 
+(Below Median)"
+Vasai Br,Thane,0.12200000000000003,"Average Performer 
+(Below Median)"
+Surat(Mota Varachha),Gujarat,0.122,"Average Performer 
+(Below Median)"
+Delhi(Saket) Br,Delhi_Ncr,0.12000000000000002,"Average Performer 
+(Below Median)"
+Ts(R C Puram),Telangana,0.12000000000000002,"Average Performer 
+(Below Median)"
+Vadodara(Kareli Baug),Gujarat,0.11800000000000002,"Average Performer 
+(Below Median)"
+Ts(A.S.Rao Nagar),Telangana,0.118,"Average Performer 
+(Below Median)"
+Ts(Nagole),Telangana,0.11600000000000002,Low Performer
+Kharghar(Patel Heritage),Thane,0.11600000000000002,Low Performer
+Ts(Attapur),Telangana,0.11600000000000002,Low Performer
+Chembur Br,Mumbai,0.11400000000000002,Low Performer
+Ts(Madinaguda),Telangana,0.11200000000000002,Low Performer
+Ts(Kukatpally),Telangana,0.11000000000000001,Low Performer
+Up(Gaur Chowk),Delhi_Ncr,0.11000000000000001,Low Performer
+Ts(Chintalkunta),Telangana,0.10800000000000001,Low Performer
+Pune(Tilak Rd)Br,Pune,0.10600000000000001,Low Performer
+Vadodara(Manjalpur) Br,Gujarat,0.10600000000000001,Low Performer
+Ahmedabad(Chandkheda Rd) Br,Gujarat,0.10600000000000001,Low Performer
+Infiniti Br,Mumbai,0.10600000000000001,Low Performer
+Ts(Chandrayangutta),Telangana,0.1,Low Performer
+Ts(Malakpet),Telangana,0.094,Low Performer
+Delhi(Najafgarh),Delhi_Ncr,0.092,Low Performer
+Ap(Rajahmundry-Jln Road),Telangana,0.088,Low Performer
+Surat(Vip Road-Vesu),Gujarat,0.088,Low Performer
+Nallasopara Br,Thane,0.086,Low Performer
+Ahmedabad(R3Mall) Br,Gujarat,0.086,Low Performer
+Ts(Jubilee Hills),Telangana,0.08,Low Performer
+Haryana(Palam Vihar Rd),Delhi_Ncr,0.07999999999999999,Low Performer
+Ap(Vijayawada),Telangana,0.078,Low Performer
+Mumbra(Kausa),Thane,0.078,Low Performer
+Ghatkopar(Lbs Marg) Br,Mumbai,0.074,Low Performer
+Ap(Kakinada),Telangana,0.07,Low Performer
+DELHI(ROHINI Sector-16),Delhi_Ncr,0.07,Low Performer
+DELHI(ASHOK VIHAR),Delhi_Ncr,0.064,Low Performer
+Gandhinagar(Sargasan),Gujarat,0.052000000000000005,Low Performer
+Ts(Hayathnagar),Telangana,0.05,Low Performer
+Ts(Wrg-Pochamma Maidan),Telangana,0.042,Low Performer
+Ts(Warangal),Telangana,0.04,Low Performer
+Ap(Vizag),Telangana,0.034,Low Performer
+Ulhasnagar Br,Thane,0.022,Low Performer
+Boisar Br,Mumbai,0.02,Low Performer
+MAHIM(VS Next),Mumbai,0.0,Low Performer
+Currey Road,Thane,0.0,Low Performer
+Ap(Ntr Circle),Telangana,0.0,Low Performer
+Kharghar Br,Thane,0.0,Low Performer
+Ap(Tirupathi-Leela Mahal Circle),Telangana,0.0,Low Performer
+Ap(Rajamundry),Telangana,0.0,Low Performer
+Vadodara(Kothi Road),Gujarat,0.0,Low Performer

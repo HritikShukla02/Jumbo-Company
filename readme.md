@@ -1,5 +1,16 @@
+## Objective
+
+This analysis evaluates insurance attachment rates for 163 different sellers  across six branch regions to identify performance patterns, understand regional variations, and provide actionable insights for strategic decision-making.
+**Key Objectives:**
+- Benchmark and compare regional performance to identify top-performing branches
+- Analyze statistical significance of performance differences across regions
+- Segment stores into performance clusters for targeted interventions
+- Identify trends and forecast future attachment rates to support proactive planning
+
+Through comprehensive data analysis and visualization, this report delivers evidence-based recommendations to optimize insurance sales effectiveness across all regions.
+
+
 ## Dataset Deccriptives
-### Descriptive Statistics
 
 | Statistic | Dec      | Nov      | Oct      | Sep      | Aug      | Average  | Average_Rate |
 |----------|----------|----------|----------|----------|----------|----------|---------------|
@@ -12,14 +23,11 @@
 | 75%      | 0.300000 | 0.295000 | 0.240000 | 0.245000 | 0.190000 | 0.235000 | 0.235000 |
 | max      | 1.000000 | 0.700000 | 0.710000 | 0.800000 | 0.600000 | 0.622000 | 0.622000 |
 
-
-
-## First Thoughts
-- Dataset scope: 163 stores across 6 states, tracking insurance purchase rates over 5 months
-- Overall trend: Increasing percentage of customers buying insurance with devices
-- Recent slowdown: Growth stagnating in last 2 months, likely due to fewer transactions (common in recent dataset entries) and slightly higher standard deviation
-- Outliers present: Maximum values significantly exceed the 3rd quartile
-- Data quality concern: Some entries show 80-100% insurance purchase rates, but these may be misleading due to very low customer counts
+- **Scope:** 163 stores across 6 branch regions, tracking insurance attachment rates over 5 months
+- **Overall Trend:** Moderate improvement observed in early months, followed by stabilization, indicating improving sales effectiveness
+- **Recent Performance:** Growth has plateaued in the last 2 months, coinciding with reduced transaction volumes and increased performance variability (higher standard deviation)
+- **Outlier Presence:** Significant outliers detected with maximum attachment rates substantially exceeding the third quartile across regions
+- **Data Quality Note:** Some entries show 80-100% attachment rates but correspond to very low customer counts, requiring careful interpretation during analysis
 
 
 ## Branch Level Performance Benchmarking
@@ -44,12 +52,17 @@
 **Branches Above Average:** 2  
 **Branches Below Average:** 4
 
+- **Top tier:** Pune (27.7%) and Delhi_NCR (24.4%) form the high-performance cluster, converting approximately 1 in 4 customers
+- **Bottom tier:** Four branches (Mumbai, Thane, Gujarat, Telangana) range from 11.8% to 17.3%, converting only 1 in 7-8 customers
+- **Performance gap:** 12 percentage point difference between high and low performers represents an 81% effectiveness gap
+- **Overall benchmark:** Only 2 out of 6 branches (33%) exceed the company average of 18%, indicating significant improvement potential
+
 
 ## Understanding Monthly Branch level performances
 
 <img src="./images/Understanding Monthly Branch level performances.png">
 
-###w Branch Rankings by Month
+### Branch Rankings by Month
 
 | Branch       | Aug | Sep | Oct | Nov | Dec |
 |-------------|-----|-----|-----|-----|-----|
@@ -149,7 +162,8 @@
 ## Branch level Statistics
 
 <img src="./images/Branch level Statistics.png">
-## Performance Cluster Analysis
+
+### Performance Cluster Analysis
 
 #### Cluster Overview
 - **High Performers (2):** Pune, Delhi_Ncr  
@@ -183,6 +197,7 @@
 - **Lower Performers Average:** 14.38%  
 - **Performance Gap:** 11.63%  
 - **Relative Difference:** 80.93%  
+
 
 
 ## Classifying Stores Based on Performance
